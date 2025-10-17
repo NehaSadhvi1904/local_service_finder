@@ -67,7 +67,7 @@ Local_services_finder/
   <summary><b>Installation</b></summary>
   <ol>
     <li><b>Clone the repository</b><br>
-      <code>git clone https://github.com/udaypratapsingh4667/ServiceHub.git</code><br>
+      <code>git clone https://github.com/NehaSadhvi1904/local_service_finder</code><br>
       <code>cd ServiceHub</code>
     </li>
     <li><b>Install dependencies</b><br>
@@ -138,8 +138,8 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-- Author: udaypratapsingh4667
-- GitHub: [ServiceHub](https://github.com/udaypratapsingh4667/Service_Hub)
+- Author: NehaSadhvi1904
+- GitHub: [ServiceHub](https://github.com/NehaSadhvi1904/local_service_finder)
 
 ---
 
